@@ -112,19 +112,19 @@ My focus is on building practical solutions that span across hardware and softwa
 - Developed an obstacle detection system utilizing an ultrasonic sensor interfaced with an STM32 microcontroller.
 - Implemented real-time alerts with a sub-100ms response time for immediate hazard notification.
 - Conducted systematic testing across multiple obstacle types and distances to ensure reliability.
-- 🔗 **Repository:** [View Repository](ADD_REPOSITORY_LINK)
+  
 
 ### 🌤️ Real-Time Weather Monitoring System
 > **Tech Stack:** Microcontroller, BMP180 Sensor, C/C++
 - Built an environmental tracking system to monitor temperature, humidity, and atmospheric pressure.
 - Enabled live data logging and serial monitoring for continuous and accurate data observation.
-- 🔗 **Repository:** [View Repository](ADD_REPOSITORY_LINK)
+  
 
 ### ⚖️ Strain Measurement System
 > **Tech Stack:** Arduino UNO, HX711, Strain Gauge, C++
 - Designed a measurement system capable of precise force and deformation tracking within a 500g–1kg range.
 - Focused on system calibration and measurement repeatability to ensure accurate data outputs.
-- 🔗 **Repository:** [View Repository](ADD_REPOSITORY_LINK)
+  
 
 ---
 
