@@ -114,10 +114,11 @@ My focus is on building practical solutions that span across hardware and softwa
 - Conducted systematic testing across multiple obstacle types and distances to ensure reliability.
   
 
-### 🌤️ Real-Time Weather Monitoring System
-> **Tech Stack:** Microcontroller, BMP180 Sensor, C/C++
-- Built an environmental tracking system to monitor temperature, humidity, and atmospheric pressure.
-- Enabled live data logging and serial monitoring for continuous and accurate data observation.
+### [🚗 Smart Parking System – IoT](https://github.com/2300040449/Smart-Parking-System-IOT)
+> **Tech Stack:** Arduino Uno, IR Sensors, Servo Motors, Embedded C/C++
+- Developed a real-time parking slot monitoring system using sensor-based vehicle detection.
+- Implemented automated gate control using servo motors based on parking availability.
+- Integrated sensors with Arduino for real-time data processing and parking-status management.
   
 
 ### ⚖️ Strain Measurement System
