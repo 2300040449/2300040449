@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm B. Bhanu Teja 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=800&lines=ECE+Undergraduate+%7C+Embedded+Systems and IOT;Python+%26+C+%7C+SQL+%7C+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=800&lines=ECE+Undergraduate+%7C+Embedded+Systems & IOT;Python+%26+C+%7C+SQL+%7C+Data+Analytics" alt="Typing SVG" />
 </div>
 
 <br />
