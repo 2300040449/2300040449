@@ -114,11 +114,15 @@ My focus is on building practical solutions that span across hardware and softwa
 - Conducted systematic testing across multiple obstacle types and distances to ensure reliability.
   
 
-### [🚗 Smart Parking System – IoT](https://github.com/2300040449/Smart-Parking-System-IOT)
-> **Tech Stack:** Arduino Uno, IR Sensors, Servo Motors, Embedded C/C++
-- Developed a real-time parking slot monitoring system using sensor-based vehicle detection.
-- Implemented automated gate control using servo motors based on parking availability.
-- Integrated sensors with Arduino for real-time data processing and parking-status management.
+### [🚗 Smart Parking System IoT](https://github.com/2300040449/Smart-Parking-System-IOT)
+> **Tech Stack:** ESP32, HW-201, I2C LCD, C++, Arduino, FastAPI, Python, PostgreSQL, Supabase, React, TypeScript, Vite, REST API
+
+An end-to-end IoT smart parking monitoring platform that uses ESP32-based edge detection to monitor parking occupancy, transmit real-time telemetry to a FastAPI backend, persist parking events in PostgreSQL, and visualize live parking analytics through a React dashboard.
+
+- Built an ESP32-based IoT edge node using an HW-201 IR sensor for real-time parking occupancy detection and an I2C LCD for local status display.
+- Implemented state-change detection and sensor debouncing to distinguish VEHICLE_ENTERED, VEHICLE_EXITED, and routine status updates while preventing duplicate events.
+- Developed a FastAPI REST backend with PostgreSQL/Supabase persistence for telemetry ingestion, parking events, device health, and analytics.
+- Developed a React + TypeScript + Vite dashboard for live parking-slot visualization, event monitoring, occupancy metrics, and IoT device status.
   
 
 ### ⚖️ Strain Measurement System
