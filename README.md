@@ -108,8 +108,8 @@ My focus is on building practical solutions that span across hardware and softwa
 ## 🚀 Featured Projects
 
 ### 🚗 ADAS Collision-Free System
-> **Tech Stack:** STM32, Ultrasonic Sensor, C
-- Developed an obstacle detection system utilizing an ultrasonic sensor interfaced with an STM32 microcontroller.
+> **Tech Stack:** ESP32, Ultrasonic Sensor, C
+- Developed an obstacle detection system utilizing an ultrasonic sensor interfaced with an ESP32 microcontroller.
 - Implemented real-time alerts with a sub-100ms response time for immediate hazard notification.
 - Conducted systematic testing across multiple obstacle types and distances to ensure reliability.
   
