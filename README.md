@@ -107,7 +107,7 @@ My focus is on building practical solutions that span across hardware and softwa
 
 ## 🚀 Featured Projects
 
-### 🚗 ADAS Collision-Free System
+### [🚗 ADAS Collision-Free System](https://github.com/2300040449/ADAS-Collision-Warning-System))
 > **Tech Stack:** ESP32, Ultrasonic Sensor, C
 - Developed an obstacle detection system utilizing an ultrasonic sensor interfaced with an ESP32 microcontroller.
 - Implemented real-time alerts with a sub-100ms response time for immediate hazard notification.
@@ -125,7 +125,7 @@ An end-to-end IoT smart parking monitoring platform that uses ESP32-based edge d
 - Developed a React + TypeScript + Vite dashboard for live parking-slot visualization, event monitoring, occupancy metrics, and IoT device status.
   
 
-### ⚖️ Strain Measurement System
+### [⚖️ Strain Measurement System](https://github.com/2300040449/Strain-Measurement-System)
 > **Tech Stack:** Arduino UNO, HX711, Strain Gauge, C++
 - Designed a measurement system capable of precise force and deformation tracking within a 500g–1kg range.
 - Focused on system calibration and measurement repeatability to ensure accurate data outputs.
