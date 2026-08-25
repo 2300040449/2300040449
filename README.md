@@ -107,7 +107,7 @@ My focus is on building practical solutions that span across hardware and softwa
 
 ## 🚀 Featured Projects
 
-### [🚗 ADAS Collision-Free System](https://github.com/2300040449/ADAS-Collision-Warning-System))
+### [🚗 ADAS Collision-Free System](https://github.com/2300040449/ADAS-Collision-Warning-System)
 > **Tech Stack:** ESP32, Ultrasonic Sensor, C
 - Developed an obstacle detection system utilizing an ultrasonic sensor interfaced with an ESP32 microcontroller.
 - Implemented real-time alerts with a sub-100ms response time for immediate hazard notification.
